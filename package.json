@@ -1,0 +1,23 @@
+{
+  "name": "bifrost",
+  "version": "1.0.0",
+  "description": "Hello world! I think therefore i AM!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4horsemenofapocalypse/bifrost.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4horsemenofapocalypse/bifrost/issues"
+  },
+  "homepage": "https://github.com/4horsemenofapocalypse/bifrost/dist",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
