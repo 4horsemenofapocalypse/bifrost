@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/4horsemenofapocalypse/bifrost/issues"
   },
-  "homepage": "https://github.com/4horsemenofapocalypse/bifrost/dist",
+  "homepage": "https://github.com/4horsemenofapocalypse/bifrost",
   "devDependencies": {
     "gh-pages": "^2.2.0"
   }
